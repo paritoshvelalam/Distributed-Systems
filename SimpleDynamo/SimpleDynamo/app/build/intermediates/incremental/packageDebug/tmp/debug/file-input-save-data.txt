@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 10 12:20:21 EDT 2019
+0.baseType=DIRECTORY
+0.base=/home/paritosh/courses/Distributedsystems/Projects/PA4/SimpleDynamo/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

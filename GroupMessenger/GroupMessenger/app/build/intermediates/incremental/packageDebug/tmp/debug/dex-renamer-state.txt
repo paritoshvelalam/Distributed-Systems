@@ -1,0 +1,4 @@
+#Mon Mar 25 18:13:39 EDT 2019
+base.0=/home/paritosh/courses/Distributedsystems/Projects/PA2/PA2B/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
